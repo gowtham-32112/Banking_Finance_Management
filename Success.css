@@ -1,0 +1,34 @@
+.succ-bg {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+  }
+  
+  .action-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+  }
+  
+  .action-button img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+  .action-button:hover {
+    background-color: #45a049; /* Darker green */
+  }
+  
